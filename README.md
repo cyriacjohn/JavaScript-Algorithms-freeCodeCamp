@@ -2,7 +2,7 @@
 My solutions for all the projects in the JS Algorithms certification course.
 
 
-![FreeCodeCamp JavaScript Certificate]([https://github.com/cyriacjohn/JavaScript-Algorithms-freeCodeCamp.git/certificate.png](https://github.com/cyriacjohn/JavaScript-Algorithms-freeCodeCamp/blob/main/certificate.png))
+![FreeCodeCamp JavaScript Certificate](certificate.png)
 
 This repository showcases my progress and projects completed as part of the [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/) certification from FreeCodeCamp. Through these projects, I have strengthened my skills in JavaScript, algorithms, and fundamental data structures.
 

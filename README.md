@@ -6,10 +6,6 @@ My solutions for all the projects in the JS Algorithms certification course.
 
 This repository showcases my progress and projects completed as part of the [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/) certification from FreeCodeCamp. Through these projects, I have strengthened my skills in JavaScript, algorithms, and fundamental data structures.
 
-## 📜 Certification
-
-I have successfully completed the **JavaScript Algorithms and Data Structures** certification on FreeCodeCamp. This certification involved rigorous training in JavaScript fundamentals, algorithms, and essential data structures.
-
 ## 🏆 Key Projects and Challenges
 
 Here are some of the projects and challenges I completed as part of the course:
